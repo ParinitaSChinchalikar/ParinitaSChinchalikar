@@ -2,7 +2,7 @@
 
 🔭 Currently, I'm actively working on enhancing my skills in software development, particularly focusing on honing my expertise in Java programming and web development with ReactJS.
 
-🌱 I'm always seeking opportunities to expand my knowledge and expertise, and I'm currently learning about cloud computing and exploring its applications in modern software development.
+🌱 I'm always seeking opportunities to expand my knowledge and expertise in software development, exploring its applications in modern technology landscapes.
 
 👯 I'm enthusiastic about collaborating with like-minded individuals on innovative projects that push the boundaries of technology and solve real-world problems.
 
