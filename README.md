@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there 👋 I'm Parinita Chinchalikar, A Computer Science Enthusiast.
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 💬 Ask me about: 
+- 📫 How to reach me: Drop me a 'Hi' on LinkedIn, https://www.linkedin.com/in/parinitachinchalikar/
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: ...
 
 <!--
 **ParinitaSChinchalikar/ParinitaSChinchalikar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
